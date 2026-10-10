@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas Prophere",
+    "price": 350,
+    "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.",
+    "quantity": 995,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Adidas Prophere Black White",
+    "price": 450,
+    "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.",
+    "quantity": 990,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Adidas Prophere Customize",
+    "price": 375,
+    "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.",
+    "quantity": 415,
+    "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=500&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Adidas Super Star Red",
+    "price": 465,
+    "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.",
+    "quantity": 542,
+    "image": "https://images.unsplash.com/photo-1579338559194-a162d19bf842?w=500&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Adidas Swift Run",
+    "price": 550,
+    "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.",
+    "quantity": 674,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Adidas Tenisky Super Star",
+    "price": 250,
+    "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.",
+    "quantity": 456,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80" 
+  }
+]
